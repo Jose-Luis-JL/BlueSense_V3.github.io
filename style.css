@@ -8,15 +8,14 @@
 
 /* Color Variables */
 :root{
-  --sidebar-bg: #2c9bcc;
+  --sidebar-bg: #c2eed8;
   --sidebar-width: 100px;
   --sidebar-width-active: 150px;
-  --text-color: #fff;
-  --menu-item-color: rgb(255, 255, 255);
-  --menu-item-hover-bg: rgb(37, 69, 166);
-  --menu-item-hover-color: #fff;
-  --menu-header-color: rgb(255, 252, 252);
-  --tooltip-bg: rgba(0, 0, 0, 0.8);
+  --text-color: #287492;
+  --menu-item-color: #287492;
+  --menu-item-hover-color: #287492;
+  --menu-header-color: #287492;
+  --tooltip-bg: #c2eed8;
   --border-color: rgb(218, 147, 147);
 }
 .sidebar {
