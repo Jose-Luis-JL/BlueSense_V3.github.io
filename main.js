@@ -1,3 +1,6 @@
+const toggleButton = document.getElementById("toggle-button");
+const sidebar = document.getElementById("sidebar");
+
 const openIcon = toggleButton.querySelector(".bxs-right-arrow");
 const closeIcon = toggleButton.querySelector(".bxs-left-arrow");
 
